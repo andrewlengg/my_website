@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "baseURL: https://kostis-portfolio.netlify.app/"
+baseURL = "baseURL: https://andrew-leng-portfolio.netlify.app/"
 languageCode = "en-us"
-title = "Andrew Leng's Website"
+title = "Yuqiao Andrew Leng's Website"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
